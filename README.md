@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Martins!
 
-<!--
-**imMARTINSS/imMARTINSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação com foco em **Java para backend** e **IoT com C**. Tenho interesse em segurança, inteligência artificial aplicada e uso Linux como principal ambiente de desenvolvimento.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Em aprendizado contínuo
+
+- 🧠 Atualmente estudando: Java (orientado a objetos, backend) e C para sistemas embarcados
+- 🔍 Explorando bibliotecas e sensores com foco em projetos reais
+- 🛠️ Construindo base sólida em programação, segurança e aplicações inteligentes
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins&layout=compact&theme=dracula)
+
+---
+
+## 🧭 Em direção ao domínio completo:
+
+- Fundamentos sólidos
+- Backend e IoT aplicados
+- Segurança e boas práticas
+- Inteligência artificial no mundo real
+
+---
+
+> “Estudar programação não é sobre decorar, é sobre entender como pensar em soluções.”
+
+---
+
+📍 Brasil | 🐧 Linux User
