@@ -24,9 +24,9 @@ Sou estudante de programação com foco em **Java para backend** e **IoT com C**
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inMARTINSS&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imMARTINSS&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inMARTINSS&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imMARTINSS&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook)
 
 ---
 
