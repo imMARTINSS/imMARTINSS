@@ -6,9 +6,9 @@ Sou estudante de programação com foco em **Java para backend** e **IoT com C**
 
 ## 🚀 Em aprendizado contínuo
 
-- 🧠 Atualmente estudando: Java (orientado a objetos, backend) e C para sistemas embarcados
-- 🔍 Explorando bibliotecas e sensores com foco em projetos reais
-- 🛠️ Construindo base sólida em programação, segurança e aplicações inteligentes
+- 🧠 Atualmente estudando: Java (orientado a objetos, backend) e C para sistemas embarcados  
+- 🔍 Explorando bibliotecas e sensores com foco em projetos reais  
+- 🛠️ Construindo base sólida em programação, segurança e aplicações inteligentes  
 
 ---
 
@@ -24,17 +24,18 @@ Sou estudante de programação com foco em **Java para backend** e **IoT com C**
 
 ## 📈 Estatísticas do GitHub
 
-![Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inMARTINSS&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inMARTINSS&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook)
 
 ---
 
 ## 🧭 Em direção ao domínio completo:
 
-- Fundamentos sólidos
-- Backend e IoT aplicados
-- Segurança e boas práticas
-- Inteligência artificial no mundo real
+- Fundamentos sólidos  
+- Backend e IoT aplicados  
+- Segurança e boas práticas  
+- Inteligência artificial no mundo real  
 
 ---
 
