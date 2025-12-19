@@ -24,9 +24,11 @@ Sou estudante de programação com foco em **Java para backend** e **IoT com C**
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imMARTINSS&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imMARTINSS&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook)
+<div>
+<a href="https://github.com/Herbeth-LKS">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imMARTINSS&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=imMARTINSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ---
