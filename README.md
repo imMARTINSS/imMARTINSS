@@ -1,49 +1,71 @@
-# 👋 Olá, eu sou o Martins!
+<div align="center">
 
-Sou estudante de programação com foco em **Java para backend** e **IoT com C**. Tenho interesse em segurança, inteligência artificial aplicada e uso Linux como principal ambiente de desenvolvimento.
+# 👋 Hello, I'm Martins!
 
----
+### Developer | Information Systems Student
 
-## 🚀 Em aprendizado contínuo
+![Profile Views](https://komarev.com/ghpvc/?username=imMARTINSS&color=blueviolet&style=flat-square&label=Profile+Views)
 
-- 🧠 Atualmente estudando: Java (orientado a objetos, backend) e C para sistemas embarcados  
-- 🔍 Explorando bibliotecas e sensores com foco em projetos reais  
-- 🛠️ Construindo base sólida em programação, segurança e aplicações inteligentes  
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div>
-<a href="https://github.com/Herbeth-LKS">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imMARTINSS&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=imMARTINSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+🎓 **Information Systems** student from São Luís, Maranhão, Brazil
+
+🔒 Cybersecurity is where my curiosity lives — back-end is where I work
+
+🥋 BJJ on the mat | 🥁 Drums in the soul | 🎵 Music always
+
+🤫 Quiet person. I prefer to understand how things work rather than talk about it
 
 ---
 
-## 🧭 Em direção ao domínio completo:
+## 🛠️ Technologies & Tools
 
-- Fundamentos sólidos  
-- Backend e IoT aplicados  
-- Segurança e boas práticas  
-- Inteligência artificial no mundo real  
+### 💻 Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+</div>
+
+### 🗄️ Databases
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+</div>
+
+### 🔧 Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+</div>
 
 ---
 
-> “Estudar programação não é sobre decorar, é sobre entender como pensar em soluções.”
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imMARTINSS&theme=dark" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imMARTINSS&theme=dark" alt="Top Languages" />
+</div>
 
 ---
 
-📍 Brasil | 🐧 Linux User
+## 🎯 Currently
+
+- 📚 Studying Information Systems
+- 💡 Building projects with **Java / Spring Boot**
+- 🌱 Learning about **C** and software architecture
+- 🔧 Exploring **Docker** and containerization
+- 🔒 Curious about **cybersecurity**
+
+---
