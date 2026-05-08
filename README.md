@@ -50,12 +50,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imMARTINSS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imMARTINSS&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imMARTINSS&theme=dark&hide_border=true" height="150" alt="Streak Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imMARTINSS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)](https://github.com/imMARTINSS)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imMARTINSS&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800)](https://github.com/imMARTINSS)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imMARTINSS&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/imMARTINSS)
+
 </div>
 
 ---
