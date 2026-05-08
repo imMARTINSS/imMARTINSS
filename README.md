@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hello, I'm Martins!
-
 ### Developer | Information Systems Student
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imMARTINSS&color=blueviolet&style=flat-square&label=Profile+Views)
@@ -13,11 +12,8 @@
 ## 👨‍💻 About Me
 
 🎓 **Information Systems** student from São Luís, Maranhão, Brazil
-
 🔒 Cybersecurity is where my curiosity lives — back-end is where I work
-
 🥋 BJJ on the mat | 🥁 Drums in the soul | 🎵 Music always
-
 🤫 Quiet person. I prefer to understand how things work rather than talk about it
 
 ---
@@ -54,8 +50,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imMARTINSS&theme=dark" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imMARTINSS&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imMARTINSS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imMARTINSS&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imMARTINSS&theme=dark&hide_border=true" height="150" alt="Streak Stats" />
 </div>
 
 ---
